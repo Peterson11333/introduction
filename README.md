@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Peterson and I'm a developer, from Hungary</h2>
+<h2 align="left">Hi 👋! My name is Peterson and I'm a developer from Hungary</h2>
 
 ###
 
@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- Replace anime gif with a coding gif -->
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ###
 
@@ -46,4 +47,3 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
