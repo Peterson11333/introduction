@@ -2,15 +2,16 @@
 
 ###
 
+<!-- This section will be for your GitHub stats later, when you have activity. -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://img.shields.io/badge/GitHub%20Stats-%3F-grey?style=for-the-badge" height="35" alt="github stats placeholder" />
+  <p>I'm just starting out — stay tuned for my real stats soon! 🚀</p>
 </div>
 
 ###
 
-<!-- Replace anime gif with a coding gif -->
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- Programming themed GIF -->
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 ###
 
@@ -42,6 +43,12 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<!-- Snake animation can stay if you like -->
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 <br clear="both">
 
