@@ -2,7 +2,7 @@
 
 ###
 
-<!-- This section will be for your GitHub stats later, when you have activity. -->
+<!-- This section will be for your GitHub stats later -->
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub%20Stats-%3F-grey?style=for-the-badge" height="35" alt="github stats placeholder" />
   <p>I'm just starting out — stay tuned for my real stats soon! 🚀</p>
@@ -46,8 +46,11 @@
 
 <br clear="both">
 
-<!-- Snake animation can stay if you like -->
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- Fancy typing SVG animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+Peterson+from+Hungary.;Software+Development+Student.;Let's+code+together!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 
 
 <br clear="both">
